@@ -1,0 +1,10 @@
+{"intents": [
+  {"tag": "greetings",
+  "patterns":["hello, hey, hi, good day, what's up"],
+  "response":["hey i am Bitbot cryptoccurency chatbot for more information  type info"],
+},
+{"tag": "goodbye",
+"patterns":["bye, see you later, cao, see ya, bb"],
+"response":["Bye hope i help you see you soon"]
+}
+]}
